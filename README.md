@@ -12,20 +12,6 @@ The project combines forecasting, regression modelling, scenario analysis, risk 
 
 ---
 
-## 🎯 Business Problem
-
-The UK faces increasing pressure to strengthen energy security while achieving long-term sustainability and net-zero objectives.
-
-Key business questions addressed:
-
-- How will UK energy demand evolve through 2050?
-- Which factors have the strongest influence on future energy consumption?
-- What level of nuclear energy capacity may be required?
-- Should future investments prioritise Small Modular Reactors (SMRs) or Large Reactors (LRs)?
-- What financial and operational risks are associated with each option?
-
----
-
 ## 🔍 Project Objectives
 
 - Forecast UK energy demand from historical trends and macroeconomic indicators.
@@ -40,17 +26,7 @@ Key business questions addressed:
 
 ### Excel
 
-- Forecast.ETS
-- Forecast.Linear
-- LINEST Regression
-- Scenario Analysis
-- Sensitivity Analysis
-- Cost-Benefit Analysis
-- Present Value (PV)
-- Net Present Value (NPV)
-- Probability Modelling
-- Risk Assessment
-- Data Visualisation
+Forecast.ETS | Forecast.Linear | LINEST Regression | Scenario Analysis | Sensitivity Analysis | Cost-Benefit Analysis | Present Value (PV) | Net Present Value (NPV) | Probability Modelling | Risk Assessment | Data Visualisation
 
 ---
 
@@ -66,11 +42,7 @@ Key business questions addressed:
 
 ### Key Variables
 
-- GDP
-- Population
-- Mean Temperature
-- Renewable Energy Adoption
-- Historical Energy Consumption
+GDP | Population | Mean Temperature | Renewable Energy Adoption | Historical Energy Consumption
 
 Data sources included:
 
@@ -88,7 +60,7 @@ The project followed a structured analytical framework covering forecasting, reg
 
 ### Methodology Framework
 
-![Methodoly Framework](Images/methodoly-framework.png)
+![Methodoly Framework](Methodoly%20Framework%20.png)
 
 ---
 
@@ -98,10 +70,7 @@ Historical UK energy consumption trends were analysed to understand long-term de
 
 ### Techniques Applied
 
-- Forecast.ETS
-- Forecast.Linear
-- Trend Analysis
-- Scenario Modelling
+Forecast.ETS | Forecast.Linear | Trend Analysis | Scenario Modelling
 
 ### Key Insights
 
@@ -112,7 +81,7 @@ Historical UK energy consumption trends were analysed to understand long-term de
 
 ### Forecasting Model
 
-![Forecasting Model](Images/energy-demand-forecasting.png)
+![Energy Demand Forecasting](Energy%20Demand%20forecasting%20.png)
 
 ---
 
@@ -126,10 +95,7 @@ To improve forecasting accuracy, a multiple linear regression model was develope
 
 ### Independent Variables
 
-- Population
-- GDP
-- Mean Temperature
-- Renewable Energy %
+Population | GDP | Mean Temperature | Renewable Energy %
 
 ### Regression Performance
 
@@ -141,7 +107,7 @@ The model demonstrated strong predictive capability and was validated against hi
 
 ### Regression Model
 
-![Regression Model](Images/regression-matrix.png)
+![Regression Matrix](Regression%20Matrix%20.png)
 
 ---
 
@@ -158,7 +124,7 @@ Scenario analysis enabled assessment of future nuclear capacity requirements und
 
 ### Forecast Results
 
-![Nuclear Demand Scenario Analysis](Images/nuclear-demand-scenarios.png)
+![Nuclear Demand Scenarios](Nuclear%20demand%20in%20different%20scenarios%20.png)
 
 ---
 
@@ -192,31 +158,27 @@ Assessment areas included:
 
 ## ⚠️ Risk Assessment & Cost-Benefit Analysis
 
-A quantitative risk model was developed to evaluate:
+### A quantitative risk model was developed to evaluate:
 
-- Major Accident Risk
-- Significant Incident Risk
-- Operational Downtime Risk
-- Maintenance Cost Impact
-- Safety System Investments
+Major Accident Risk | Significant Incident Risk | Operational Downtime Risk | Maintenance Cost Impact | Safety System Investments
 
-Techniques applied:
+### Techniques applied:
 
-- Probability Analysis
-- Present Value Analysis
-- Net Present Value (NPV)
-- Cost-Benefit Analysis
-- Scenario-Based Evaluation
+Probability Analysis | Present Value Analysis | Net Present Value (NPV) | Cost-Benefit Analysis | Scenario-Based Evaluation
 
 ### Investment & Risk Comparison
 
-![Investment & Risk Comparison](Images/investment-risk-comparison.png)
+![Investment & Risk Comparison](Investment%20%26%20Risk%20Comparison.png)
 
 ---
 
 ## 🏆 Final Recommendation
 
 Based on forecasting, investment evaluation, and risk modelling results:
+
+![Cost Benefit Analysis](Cost%20Benefit%20Analysis%20.png)
+
+The final analysis indicates that Small Modular Reactors (SMRs) provide a more scalable and lower-risk investment approach, delivering increasing long-term benefits while reducing capital concentration and operational risk.
 
 ### Key Conclusions
 
@@ -232,4 +194,6 @@ Based on forecasting, investment evaluation, and risk modelling results:
 ## 👩‍💼 Author
 
 **Vinita Bhardwaj**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinita-bhardwaj-2a9627227)   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Vinni1999bhardwaj@gmail.com)
 
