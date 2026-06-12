@@ -88,7 +88,7 @@ The project followed a structured analytical framework covering forecasting, reg
 
 ### Methodology Framework
 
-![Methodology Framework](Images/methodology-framework.png)
+![Methodoly Framework](Images/methodoly-framework.png)
 
 ---
 
